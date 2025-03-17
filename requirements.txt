@@ -1,0 +1,11 @@
+# include pandas, numpy, matplotlib, statsmodels, pandas_datareader, datetime, yfianance, sklearn, PyPortfolioOpt
+
+pandas
+numpy
+matplotlib
+statsmodels
+pandas_datareader
+datetime
+yfinance
+scikit-learn
+PyPortfolioOpt
